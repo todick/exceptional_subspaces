@@ -1,6 +1,6 @@
-# Finding Exceptional Configuration Subspaces: An Approach Based on Subgroup Discovery
+# Finding Exceptional Software Configuration Subspaces with Subgroup Discovery
 
-This repository contains supplementary material for the paper "Finding Exceptional Configuration Subspaces: An Approach Based on Subgroup Discovery" submitted to the FSE 2026. 
+This repository contains supplementary material for the paper "Finding Exceptional Software Configuration Subspaces with Subgroup Discovery" submitted to the FSE 2026. 
 
 ## Running Subgroup Discovery
 All datasets, subgroup discovery methods and experiment scripts needed to replicate our evaluation are provided in this repository. The required Python packages are listed in the ```requirements.txt``` file.
