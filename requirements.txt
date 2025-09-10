@@ -1,0 +1,15 @@
+cycler==0.12.1
+flowtorch==0.8
+gmpy2==2.2.0
+matplotlib==3.8.4
+numpy<2.0.0
+pandas==1.5.3
+pysubgroup==0.8.0
+scipy==1.11.4
+sd4py==0.1.7
+seaborn==0.13.2
+torch==2.3.1 
+pymannkendall==1.4.3
+scikit-learn==1.7.2
+tqdm==4.67.1
+numba==0.61.2
