@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-figures/*/
 
 # C extensions
 *.so
@@ -163,7 +162,6 @@ cython_debug/
 *.synctex(busy)
 *.fls 
 *.aux
-*.out
 *.toc
 *.log
 *.fdb_latexmk
